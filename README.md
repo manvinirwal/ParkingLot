@@ -23,6 +23,8 @@ The parking lot system supports:
 * In-memory repositories
 
 ---
+## Class Diagram
+![Class Diagram ] (class_diagram.png)
 
 ## 2. Supported Vehicle Types
 
