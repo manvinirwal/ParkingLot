@@ -24,7 +24,7 @@ The parking lot system supports:
 
 ---
 ## Class Diagram
-![Class Diagram ] (class_diagram.png)
+![Class Diagram ](class_diagram.png)
 
 ## 2. Supported Vehicle Types
 
